@@ -1,0 +1,38 @@
+header{
+    height:120px;
+    background: linear-gradient(to right, #333,black,red);
+    width: 100%;
+}
+h4{
+    color:white;
+    text-align: center;
+    text-shadow: 5px 5px 5px red;
+}
+#head{
+    color:whitesmoke !important;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 20px;
+    text-shadow: 5px 5px 5px red;
+}
+main{
+    width:70%;
+    float:left;
+    columns: 2;
+}
+aside{
+    width:25%;
+    float:right;
+}
+
+
+
+footer{
+    clear:both;
+    width:100%;
+    height:100px;
+    background: linear-gradient(to right, #333,black,red);
+    color:white;
+    text-align: center;
+    padding-top: 30px;
+}
